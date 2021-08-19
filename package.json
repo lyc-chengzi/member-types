@@ -10,6 +10,7 @@
     "typescript",
     "ts"
   ],
+  "repository": "https://github.com/lyc-chengzi/member-types",
   "author": "lyc-chengzi",
   "license": "MIT"
 }
