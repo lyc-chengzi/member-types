@@ -1,0 +1,15 @@
+{
+  "name": "member-types",
+  "version": "1.0.0",
+  "description": "会员项目typescript定义文件",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "ts"
+  ],
+  "author": "lyc-chengzi",
+  "license": "MIT"
+}
